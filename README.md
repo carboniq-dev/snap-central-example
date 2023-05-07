@@ -1,7 +1,3 @@
-NOTE : Although documentation and examples are already available, the plugin is currently undergoing the Unreal review process.
-
----
-
 [Full documentation](https://carboniq-dev.github.io/docs/)
 
 # Snap Central - Example Integration
