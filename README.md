@@ -9,11 +9,13 @@ This tutorial illustrates the utilization of the Unreal Engine 5 Snap Central pl
 ## Before
 
 ![alt text](./SnapCentralExample/Resources/central-grid-reference.PNG)
+
 ![alt text](./SnapCentralExample/Resources/get-snap-parameters.PNG)
 
 ## After
 
 ![alt text](./SnapCentralExample/Resources/central-grid-reference-impl.PNG)
+
 ![alt text](./SnapCentralExample/Resources/get-snap-parameters-impl.PNG)
 
 [Video Demo](https://www.youtube.com/watch?v=WuYTlhWh9xs/)
